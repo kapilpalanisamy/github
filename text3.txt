@@ -1,1 +1,0 @@
-this is text 3 file created when learning the basics of Git.
